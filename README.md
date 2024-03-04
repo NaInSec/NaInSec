@@ -25,4 +25,8 @@
 ```
 BTC - 14xMeDbjsyBCtjCLsaKBYLqw4C2Sf145o5
 ETH - 0xd7e669f6f861e7ac8c4ebbc7852b226af98517e4
+BTG - AXQZ4fyEa1rNmPvQRSKo5gmxhKGz29AUxB
+LTC - ltc1qxj8cnu30yqkulsnkwgamyj3eyxtfq7e5j8nnhy
+DGC - DKLJyx8HaSWuoHhmTTG2h4GwudWReqeRGH
+BCD - 36Krd5EBH8mXTj1RtPajcfutztX7JX1FST
 ```
