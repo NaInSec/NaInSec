@@ -7,11 +7,6 @@
 
 <br>
 
-[![NaInSec](https://github-readme-streak-stats.herokuapp.com/?user=NaInSec&theme=radical&hide_title=true&include_all_commits=true)](https://github-readme-streak-stats.herokuapp.com/?user=NaInSec&theme=radical&hide_title=true&include_all_commits=true)
-<br>
-[![NaInSec](https://github-readme-stats.vercel.app/api?username=NaInSec&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=NaInSec&show_icons=true&theme=radical)
-
-
 #### `Donate :`
 ```
 BTC - 14xMeDbjsyBCtjCLsaKBYLqw4C2Sf145o5
