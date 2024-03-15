@@ -10,11 +10,7 @@
 [![NaInSec](https://github-readme-streak-stats.herokuapp.com/?user=NaInSec&theme=radical&hide_title=true&include_all_commits=true)](https://github-readme-streak-stats.herokuapp.com/?user=NaInSec&theme=radical&hide_title=true&include_all_commits=true)
 <br>
 [![NaInSec](https://github-readme-stats.vercel.app/api?username=NaInSec&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=NaInSec&show_icons=true&theme=radical)
-<br>
-[![NaInSec](https://github-profile-trophy.vercel.app/?username=NaInSec&margin-w=14&theme=radical&margin-h=14)](https://github-profile-trophy.vercel.app/?username=NaInSec&theme=radical&margin-w=14&margin-h=14)
-</div><br>
 
----
 
 #### `Donate :`
 ```
