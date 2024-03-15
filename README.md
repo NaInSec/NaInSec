@@ -8,48 +8,57 @@
 
 ### ***STRUKTUR NIS (National Indonesia Security)***
 ```
-Nama : XSVSCyb3r
-Lahir : 17/08/1998
+Nama   : XSVSCyb3r
+Lahir  : 17/08/1998
+No. ID : 5487261390
 Negara : Indonesia
 Posisi : CEO (Chief Executive Officer) & COO (Chief Operating Officer)
 
-Nama : XXSec101
-Lahir : 10/06/2001
+Nama   : XXSec101
+Lahir  : 10/06/2001
+No. ID : 9075138642
 Negara : Indonesia
 Posisi : CTO (Chief Technology Officer) & Board of Directors
 
-Nama : Reviyyan Kalaznikov
-Lahir : 16/04/1999
+Nama   : Reviyyan Kalaznikov
+Lahir  : 16/04/1999
+No. ID : 6329851740
 Negara : Russian
 Posisi : CIO (Chief Information Officer)
 
-Nama : Sachi Henakyy
-Lahir : 08/01/2000
+Nama   : Sachi Henakyy
+Lahir  : 08/01/2000
+No. ID : 3154782906
 Negara : Korea Selatan
 CMO (Chief Marketing Officer)
 
-Nama : Anna Petrovna Ivanova
-Lahir : 10/12/1995
+Nama   : Anna Petrovna Ivanova
+Lahir  : 10/12/1995
+No. ID : 8204631975
 Negara : Russian
 Posisi : VP of Operations
 
-Nama : Ekaterina Mikhailovna Sokolova
-Lahir : 06/06/1994
+Nama   : Ekaterina Mikhailovna Sokolova
+Lahir  : 06/06/1994
+No. ID : 1695302478
 Negara : Russian
 Posisi : VP of Engineering
 
-Nama : Yoon Soo Kyung
-Lahir : 07/11/2002
+Nama   : Yoon Soo Kyung
+Lahir  : 07/11/2002
+No. ID : 7428691503
 Negara : Korea Selatan
 Posisi : CFO (Chief Financial Officer)
 
-Nama : Putri Nabilla
-Lahir : 05/04/2001
+Nama   : Putri Nabilla
+Lahir  : 05/04/2001
+No. ID : 3856219074
 Negara : Indonesia
 Posisi : VP of Product Management
 
-Nama : Lee Hyen Jin
-Lahir : 10/08/1999
+Nama   : Lee Hyen Jin
+Lahir  : 10/08/1999
+No. ID : 4678213509
 Negara : Korea Selatan
 Posisi : VP of Human Resources
 ```
