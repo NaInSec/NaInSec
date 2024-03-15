@@ -30,7 +30,7 @@ Nama   : Sachi Henakyy
 Lahir  : 08/01/2000
 No. ID : 3154782906
 Negara : Korea Selatan
-CMO (Chief Marketing Officer)
+Posisi : CMO (Chief Marketing Officer)
 
 Nama   : Anna Petrovna Ivanova
 Lahir  : 10/12/1995
